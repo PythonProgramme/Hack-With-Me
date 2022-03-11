@@ -17,8 +17,8 @@ The Tool With Greate Features
 
 `sudo ./install.sh`
 
+`chmod +x Hack\ With\ Me`
 
 ## Run The Tool
-`chmod +x Hack\ With\ Me`
 
 `sudo ./Hack\ With\ Me`
